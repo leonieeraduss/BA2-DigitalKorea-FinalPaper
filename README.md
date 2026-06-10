@@ -1,2 +1,2 @@
 # BA2-DigitalKorea-FinalPaper
-A corpus-based study of political orientation and language use in South Korean newspaper tweets.
+A corpus-based study on whether linguistic patterns in South Korean newspaper tweets reflect political orientation.
